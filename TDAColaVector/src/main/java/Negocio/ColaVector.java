@@ -40,7 +40,7 @@ public class ColaVector {
             frente = -1;
             atras  = -1;
         }else{           
-            //frente = frente+1 % Q.length; 
+             
             frente = frente +1 % Q.length;                      
         }       
         return x;                   
